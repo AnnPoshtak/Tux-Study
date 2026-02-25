@@ -13,8 +13,8 @@ Build a functional MVP that includes:
 # 🗂 Phase 1 – Planning & Architecture
 
 ## 1.1 Technical Decisions
-- Choose programming language - C++
-- Choose GUI framework (GTK / Qt / etc.) - Qt
+- Choose programming language - Dart
+- Choose GUI framework (GTK / Qt / etc.) -Flutter
 - Define project structure - Done ✅
 - Separate UI, business logic, and data layer - Done ✅
 
@@ -125,4 +125,5 @@ Rules example:
 
 # ⏳ Estimated Timeline
 2–3 weeks of development.
+
 
